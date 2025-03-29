@@ -52,5 +52,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 This project was developed during my internship at **Pinnacle Labs**. Special thanks to the mentors and team for their guidance and support!
 
 ---
-🔗 **GitHub Repository**: [Your GitHub Repository Link]
+🔗 **GitHub Repository**: https://github.com/smileycookie
 
