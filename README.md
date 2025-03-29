@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=smileycookie.Password_Analyzer" />
 
 ![Password Analyzer](https://github.com/smileycookie/Password_Analyzer/blob/72e26ae6e525bba21bec6683082d800f5309dd73/Password_Analyzer.png) 
 
