@@ -31,7 +31,7 @@ This project was developed as part of an internship at **Pinnacle Labs** to prom
 ### Steps to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/password-analyzer.git
+   git clone https://github.com/smileycookie/Password_Analyzer.git
    cd password-analyzer
    ```
 2. Open the **password_analyzer.py** file in Google Colaboratory or Jupyter Notebook.
@@ -46,7 +46,7 @@ This project was developed as part of an internship at **Pinnacle Labs** to prom
 - 📌 **Standalone GUI application** using PyQt or Tkinter
 
 ## Contribution 🤝
-Contributions are welcome! Feel free to submit a pull request or open an issue for discussions.
+Contributions are welcome! Feel free to submit a pull request or open an issue for discussion.
 
 ## Acknowledgments 🎉
 This project was developed during my internship at **Pinnacle Labs**. Special thanks to the mentors and team for their guidance and support!
