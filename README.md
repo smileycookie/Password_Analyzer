@@ -1,6 +1,6 @@
 
 
-![Password Analyzer](https://github.com/smileycookie/Password_Analyzer/blob/72e26ae6e525bba21bec6683082d800f5309dd73/Password_Analyzer.png)) 
+![Password Analyzer](https://github.com/smileycookie/Password_Analyzer/blob/72e26ae6e525bba21bec6683082d800f5309dd73/Password_Analyzer.png) 
 
 ## Overview
 The **Password Analyzer** is a cybersecurity tool designed to evaluate password strength and provide feedback to enhance security. It checks passwords against multiple criteria, including length, character diversity, common password detection, and sequential/repetitive character patterns.
